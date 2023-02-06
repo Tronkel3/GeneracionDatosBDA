@@ -1,0 +1,11 @@
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-01', 'Agua', 1.00);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-02', 'Pepsi', 1.75);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-03', 'Coca Cola', 1.50);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-04', 'Nestea', 1.50);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-05', 'Aquarius Limón', 1.25);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-06', 'Aquarius Naranja', 1.25);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-07', 'Fanta Limón', 1.50);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-08', 'Fanta Naranja', 1.50);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-09', 'Cerveza Mahou', 2.00);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-10', 'Cerveza Amstel', 2.00);
+insert into BEBIDA (cod_beb, nombre_beb, precio_beb_eu) values ('BE-11', 'Agua con gas', 1.25);

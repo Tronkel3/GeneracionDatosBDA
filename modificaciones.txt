@@ -1,0 +1,4 @@
+longitud nombre pizza de 15 a 20
+longitud modelo vehiculo de 20 a 40
+adición columna cantidad en incluye_beb
+longitud nombre ingrediente de 15 a 25
